@@ -17,7 +17,7 @@
 
 ### 🎯 Sobre
 
-> **Especialista em desenvolvimento backend Java** com mais de 15 anos de experiência em sistemas corporativos de alta escala. Profundo conhecimento em **mensageria assíncrona** (RabbitMQ, Kafka), **testes automatizados** (Cucumber, BDD, TDD) e **arquitetura de software**. Experiência como **Dev Lead** e **Arquiteto de Software**, liderando equipes e propondo soluções robustas baseadas em **Clean Architecture**, **Design Patterns** e princípios **SOLID**.
+> **Especialista em desenvolvimento backend Java** com mais de 15 anos de experiência em sistemas corporativos de alta escala. Profundo conhecimento em **mensageria assíncrona** (RabbitMQ, Kafka), **testes automatizados** (Cucumber, BDD, TDD) e **arquitetura de software**. Experiência como **Líder de Squad** e **Arquiteto de Software**, liderando equipes e propondo soluções robustas baseadas em **Clean Architecture**, **Design Patterns** e princípios **SOLID**.
 
 #### 🏆 Certificações
 - **Decoder Project** - Especialista em Microservices Java Spring (2024)
@@ -51,9 +51,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-camelo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anderson-camelo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anderson-camelo&theme=tokyo-night&hide_border=true" />
