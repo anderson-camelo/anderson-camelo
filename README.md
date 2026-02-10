@@ -44,26 +44,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anderson-camelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-camelo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anderson-camelo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anderson-camelo&theme=tokyo-night&hide_border=true" />
-</div>
-
----
 
 ### 🛠️ Stack Tecnológico
 
