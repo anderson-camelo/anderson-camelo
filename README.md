@@ -4,7 +4,7 @@
 
 <div align="center">
   
-## 👨‍💻 Engenheiro de Software @ PicPay
+## 👨‍💻 Engenheiro de Software Sênior - PicPay
 ### Squad Cashback & Principalidade | Tribo Proposta de Valor | BU Cartões
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=15%2B+anos+construindo+sistemas+Java;Especialista+em+Spring+Boot+%26+Clean+Architecture;RabbitMQ+%7C+Kafka+%7C+Microservices;TDD+%7C+BDD+%7C+ATDD+%7C+Cucumber;OCPJP+%26+CTFL+Certified)](https://git.io/typing-svg)
@@ -20,29 +20,27 @@
 > **Especialista em desenvolvimento backend Java** com mais de 15 anos de experiência em sistemas corporativos de alta escala. Profundo conhecimento em **mensageria assíncrona** (RabbitMQ, Kafka), **testes automatizados** (Cucumber, BDD, TDD) e **arquitetura de software**. Experiência como **Dev Lead** e **Arquiteto de Software**, liderando equipes e propondo soluções robustas baseadas em **Clean Architecture**, **Design Patterns** e princípios **SOLID**.
 
 #### 🏆 Certificações
+- **Decoder Project** - Especialista em Microservices Java Spring (2024)
 - **OCPJP** - Oracle Certified Professional, Java SE 6 Programmer (2012)
 - **CTFL** - Certified Tester Foundation Level - ISTQB (2012)
-- **Decoder Project** - Especialista em Microservices Java Spring (2024)
-- **LinkedIn Learning** - Advanced Java Programming (2021)
 
 #### 💼 Experiência Profissional
-- **PicPay** - Engenheiro de Software Sênior (Mai 2025 - Atual)
-- **DBC Company** - Desenvolvedor Java Backend Sênior (Fev 2021 - Set 2024)
-- **DBC Company** - Dev Lead (Jul 2022 - Jul 2023)
-- **Cast Group** - Arquiteto de Software (Mar 2019 - Dez 2020)
-- **Cast IT Group** - Analista de Sistemas (Mar 2016 - Fev 2019)
-- **Capgemini** - Analista de Sistemas / Desenvolvedor de Software (Out 2015 - Mar 2016)
-- **Olimpiu's Tecnologia** - Analista de Sistemas / Desenvolvedor de Software (Ago 2013 - Set 2015)
-- **Allbrax Creative e-gov Solutions** - Analista de Sistemas / Desenvolvedor de Software (Abr 2013 - Jul 2013)
-- **S2IT** - Analista de Sistemas / Desenvolvedor de Software (Out 2012 - Mar 2013)
-- **Indra | POLITEC** - Desenvolvedor de Software (Abr 2009 - Ago 2012)
-- **UFAL** - Desenvolvedor Bolsista (Nov 2005 - Abr 2009)
+- **PicPay** - Engenheiro de Software Sênior (2025-Atual)
+- **DBC Company** - Desenvolvedor Java Backend Sênior (2021-2024)
+- **DBC Company** - Dev Lead (2022-2023)
+- **Cast Group** - Arquiteto de Software (2019-2020)
+- **Cast IT Group** - Analista de Sistemas (2016-2019)
+- **Capgemini** - Analista de Sistemas / Desenvolvedor de Software (2015-2016)
+- **Olimpiu's Tecnologia** - Analista de Sistemas / Desenvolvedor de Software (2013-2015)
+- **Allbrax Creative e-gov Solutions** - Analista de Sistemas / Desenvolvedor de Software (2013-2013)
+- **S2IT** - Analista de Sistemas / Desenvolvedor de Software (2012-2013)
+- **Indra | POLITEC** - Desenvolvedor de Software (2009-2012)
+- **UFAL** - Desenvolvedor Bolsista (2005-2009)
 
 #### 🎓 Formação Acadêmica
 - **Pós-graduação Lato Sensu** - Engenharia de Software - Centro Universitário Cesmac (2011-2013)
 - **Bacharelado** - Ciência da Computação - UFAL (2004-2011)
 - **Ensino Técnico** - Informática - CEFET-AL (2002-2008)
-
 
 ---
 
@@ -162,33 +160,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-lemos-camelo-b8378421)
 [![Email PicPay](https://img.shields.io/badge/Email_PicPay-00C853?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.camelo@picpaybank.com)
 [![Email Pessoal](https://img.shields.io/badge/Email_Pessoal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonlemos83@gmail.com)
-[![GitHub PicPay](https://img.shields.io/badge/GitHub_PicPay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anderson-camelo)
-[![GitHub Pessoal](https://img.shields.io/badge/GitHub_Pessoal-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andersonlemos83)
-
-</div>
-
----
-
-### 🎯 Foco Atual
-
-- 🏗️ **Arquitetura:** Event-Driven Architecture, Domain-Driven Design e Hexagonal Architecture
-- 🧪 **Qualidade:** BDD com Cucumber, TDD e ATDD
-- 🚀 **Performance:** Otimização de sistemas de mensageria de alto volume
-- 🔬 **Inovação:** GraalVM, Virtual Threads (Project Loom), Spring Native
-
----
-
-<div align="center">
-  
-### 💭 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/anderson-camelo/count.svg)
-
-**⭐ From [anderson-camelo](https://github.com/anderson-camelo) | [andersonlemos83](https://github.com/andersonlemos83)**
 
 </div>
 
